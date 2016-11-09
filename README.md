@@ -5,7 +5,7 @@ In this lab, we're going to dig into using Docker Swarm, Docker's native orchest
 1. [Setting up VMs](#setting-up-vms)
 2. [Creating the Swarm](#creating-the-swarm)
 3. [(Optional, but recommended) Updating hosts file](#optional-but-recommended-updating-hosts-file)
-4. [(Optional) Start the Visualizer](#start-the-visualizer)
+4. [(Optional) Start the Visualizer](#optional-start-the-visualizer)
 5. [Deploying a Service](#deploying-a-service)
 6. [Scaling up the App](#scaling-up-the-app)
 7. [Rolling out an update](#rolling-out-an-update)
